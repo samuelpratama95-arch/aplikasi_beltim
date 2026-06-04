@@ -21,7 +21,3 @@ Belitung merupakan salah satu destinasi wisata terkenal di Indonesia yang memili
 NIM: 2490343143
 
 Kelas: RJ24A
-
-## 📄 License
-
-Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
