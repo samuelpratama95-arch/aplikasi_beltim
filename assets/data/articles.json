@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a1",
+    "title": "Pulau Lengkuas, Bangka Belitung",
+    "excerpt": "Menjelajahi pulau indah dengan ikon mercusuar bersejarah peninggalan Belanda...",
+    "content": "Pulau Lengkuas adalah salah satu destinasi wisata unggulan di Kepulauan Bangka Belitung. Daya tarik utama pulau ini adalah sebuah mercusuar tua setinggi kurang lebih 50 meter yang dibangun oleh pemerintah Kolonial Belanda pada tahun 1882. Pengunjung diizinkan naik ke atas mercusuar untuk menikmati pemandangan laut biru dan formasi batu granit di sekitar pulau yang sangat memukau. Selain itu, perairan di sekitar Pulau Lengkuas sangat jernih dan tenang, menjadikannya spot yang sempurna untuk snorkeling dan berenang bersama ikan-ikan hias di sela terumbu karang.",
+    "category": "Wisata Alam",
+    "readTime": "4 min baca",
+    "imageUrl": "assets/images/Pulau Lengkuas Belitung.jpg"
+  },
+  {
+    "id": "a2",
+    "title": "Pantai Tanjung Kelayang, Belitung",
+    "excerpt": "Destinasi pantai eksotis yang menjadi titik tolak Island Hopping di Belitung...",
+    "content": "Pantai Tanjung Kelayang terletak di sebelah utara Pulau Belitung dan telah ditetapkan sebagai Kawasan Ekonomi Khusus (KEK) Pariwisata. Pantai ini memiliki karakteristik pasir putih yang sangat halus dan air laut yang jernih. Ciri khas utama dari Tanjung Kelayang adalah keberadaan batu-batu granit raksasa, salah satunya berbentuk menyerupai kepala burung garuda. Pantai ini juga merupakan titik awal bagi wisatawan yang ingin melakukan 'Island Hopping' ke pulau-pulau kecil di sekitarnya, seperti Pulau Kepayang, Pulau Pasir, Pulau Batu Berlayar, dan Pulau Lengkuas.",
+    "category": "Pantai",
+    "readTime": "5 min baca",
+    "imageUrl": "assets/images/Pantai Tanjung Kelayang, Belitung.jpg"
+  },
+  {
+    "id": "a3",
+    "title": "Replika SD Laskar Pelangi",
+    "excerpt": "Mengunjungi sekolah penuh kenangan tempat Ikal dan kawan-kawan menimba ilmu...",
+    "content": "Replika SD Muhammadiyah Gantong, atau yang lebih dikenal sebagai SD Laskar Pelangi, dibangun untuk keperluan syuting film fenomenal 'Laskar Pelangi' yang diadaptasi dari novel karya Andrea Hirata. Meskipun hanya sebuah replika, bangunan kayu sederhana beratap seng dengan tiang-tiang yang tampak miring ini berhasil membangkitkan nostalgia dan semangat pendidikan. Berada di Gantung, Belitung Timur, lokasi ini kini menjadi destinasi wisata sastra dan budaya yang wajib dikunjungi. Pengunjung dapat masuk ke dalam kelas, duduk di bangku kayu, dan membayangkan kisah perjuangan Ikal, Lintang, dan kawan-kawan Laskar Pelangi.",
+    "category": "Wisata Budaya",
+    "readTime": "3 min baca",
+    "imageUrl": "assets/images/Replika Sekolah Laskar Pelangi.jpg"
+  }
+]

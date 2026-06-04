@@ -1,0 +1,474 @@
+[
+  {
+    "id": "q1",
+    "title": "Pantai Tanjung Kelayang",
+    "rating": "4.9",
+    "imageUrl": "assets/images/Pantai Tanjung Kelayang, Belitung.jpg",
+    "questions": [
+      {
+        "id": "q1_1",
+        "question": "Pantai Tanjung Kelayang terletak di provinsi mana?",
+        "options": [
+          "Jawa Tengah",
+          "Kepulauan Bangka Belitung",
+          "DI Yogyakarta",
+          "Jawa Barat"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q1_2",
+        "question": "Apa ciri khas utama dari pemandangan di Pantai Tanjung Kelayang?",
+        "options": [
+          "Batu granit raksasa",
+          "Pasir hitam legam",
+          "Ombak besar untuk surfing",
+          "Tebing kapur yang curam"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q1_3",
+        "question": "Pantai Tanjung Kelayang sering dijadikan titik awal untuk aktivitas wisata apa?",
+        "options": [
+          "Mendaki gunung",
+          "Susur gua (Caving)",
+          "Island hopping (Jelajah Pulau)",
+          "Paralayang"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q1_4",
+        "question": "Di sebelah manakah Pulau Belitung letak Pantai Tanjung Kelayang?",
+        "options": [
+          "Selatan",
+          "Timur",
+          "Barat Laut / Utara",
+          "Tenggara"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q1_5",
+        "question": "Apa nama salah satu pulau terdekat yang bisa terlihat dari Tanjung Kelayang?",
+        "options": [
+          "Pulau Komodo",
+          "Pulau Kepayang",
+          "Pulau Weh",
+          "Pulau Rote"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q1_6",
+        "question": "Film terkenal apa yang proses syutingnya dilakukan tidak jauh dari Tanjung Kelayang?",
+        "options": [
+          "Laskar Pelangi",
+          "Ada Apa Dengan Cinta",
+          "Pengabdi Setan",
+          "Habibie & Ainun"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q1_7",
+        "question": "Tanjung Kelayang ditetapkan sebagai apa oleh pemerintah Indonesia?",
+        "options": [
+          "Taman Nasional",
+          "Kawasan Ekonomi Khusus (KEK)",
+          "Cagar Alam",
+          "Suaka Margasatwa"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q1_8",
+        "question": "Apa bentuk salah satu formasi batu granit yang paling ikonik di perairan Tanjung Kelayang?",
+        "options": [
+          "Kepala naga",
+          "Kepala burung garuda",
+          "Singa laut",
+          "Kura-kura"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q1_9",
+        "question": "Pasir di Pantai Tanjung Kelayang memiliki karakteristik seperti apa?",
+        "options": [
+          "Hitam vulkanis",
+          "Merah muda",
+          "Putih dan halus",
+          "Berbatu karang tajam"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q1_10",
+        "question": "Festival tahunan yang sering diadakan di Tanjung Kelayang adalah?",
+        "options": [
+          "Festival Danau Toba",
+          "Festival Tanjung Kelayang",
+          "Dieng Culture Festival",
+          "Festival Krakatau"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "title": "Danau Kaolin",
+    "rating": "4.8",
+    "imageUrl": "assets/images/Danau Kaolin.jpg",
+    "questions": [
+      {
+        "id": "q2_1",
+        "question": "Danau Kaolin terbentuk dari bekas aktivitas apa?",
+        "options": [
+          "Letusan gunung berapi",
+          "Penambangan timah/kaolin",
+          "Gempa bumi tektonik",
+          "Hantaman meteor"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q2_2",
+        "question": "Apa warna air yang khas di Danau Kaolin?",
+        "options": [
+          "Hijau lumut",
+          "Merah darah",
+          "Biru tosca",
+          "Coklat pekat"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q2_3",
+        "question": "Warna daratan di sekitar Danau Kaolin didominasi oleh warna apa?",
+        "options": [
+          "Hitam",
+          "Merah",
+          "Putih",
+          "Kuning"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q2_4",
+        "question": "Mineral apa yang dulunya ditambang di lokasi ini?",
+        "options": [
+          "Emas",
+          "Kaolin",
+          "Batu bara",
+          "Minyak bumi"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q2_5",
+        "question": "Di manakah lokasi Danau Kaolin yang terkenal di Belitung?",
+        "options": [
+          "Tanjung Pandan",
+          "Manggar",
+          "Gantung",
+          "Kelapa Kampit"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q2_6",
+        "question": "Apa fungsi utama kaolin dalam industri?",
+        "options": [
+          "Bahan bakar kendaraan",
+          "Bahan baku kosmetik dan kertas",
+          "Bahan bangunan utama",
+          "Bahan pewarna makanan"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q2_7",
+        "question": "Apakah air di Danau Kaolin aman untuk berenang?",
+        "options": [
+          "Sangat aman dan menyegarkan",
+          "Bisa, tapi dengan pengawasan",
+          "Tidak disarankan karena kandungan mineral",
+          "Khusus untuk penyelam profesional"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q2_8",
+        "question": "Apa yang membedakan Danau Kaolin dengan Kawah Putih di Bandung?",
+        "options": [
+          "Danau Kaolin tidak berbau belerang",
+          "Kawah Putih terbentuk dari tambang",
+          "Danau Kaolin terletak di pegunungan",
+          "Kawah Putih airnya selalu panas"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q2_9",
+        "question": "Waktu terbaik untuk mengunjungi Danau Kaolin agar mendapatkan foto yang bagus adalah?",
+        "options": [
+          "Tengah malam",
+          "Siang hari bolong",
+          "Pagi atau sore hari",
+          "Saat hujan deras"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q2_10",
+        "question": "Fotografi dengan konsep apa yang sering dilakukan di Danau Kaolin?",
+        "options": [
+          "Wildlife photography",
+          "Pre-wedding dan Landscape",
+          "Macro photography",
+          "Street photography"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "title": "Pulau Lengkuas",
+    "rating": "4.9",
+    "imageUrl": "assets/images/Pulau Lengkuas Belitung.jpg",
+    "questions": [
+      {
+        "id": "q3_1",
+        "question": "Bangunan bersejarah apa yang menjadi ikon utama Pulau Lengkuas?",
+        "options": [
+          "Candi peninggalan kerajaan",
+          "Mercusuar peninggalan Belanda",
+          "Benteng pertahanan",
+          "Patung perunggu raksasa"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q3_2",
+        "question": "Aktivitas wisata apa yang paling populer dilakukan di sekitar Pulau Lengkuas?",
+        "options": [
+          "Surfing",
+          "Mendaki gunung",
+          "Snorkeling dan melihat terumbu karang",
+          "Bermain pasir besi"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q3_3",
+        "question": "Mercusuar di Pulau Lengkuas dibangun pada tahun berapa?",
+        "options": [
+          "1750",
+          "1882",
+          "1945",
+          "1990"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q3_4",
+        "question": "Siapa yang membangun mercusuar di Pulau Lengkuas?",
+        "options": [
+          "Pemerintah Kolonial Belanda",
+          "Kerajaan Sriwijaya",
+          "Bangsa Portugis",
+          "Pemerintah Jepang"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q3_5",
+        "question": "Apa fungsi utama mercusuar di Pulau Lengkuas pada masa lalu?",
+        "options": [
+          "Menyimpan senjata",
+          "Memandu lalu lintas kapal laut",
+          "Sebagai penjara",
+          "Pusat pemerintahan"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q3_6",
+        "question": "Terumbu karang di sekitar Pulau Lengkuas masih terjaga dengan baik karena?",
+        "options": [
+          "Arus air yang sangat deras",
+          "Perairan yang jernih dan dangkal",
+          "Dilarang dikunjungi manusia",
+          "Suhu air yang sangat dingin"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q3_7",
+        "question": "Berapa perkiraan tinggi mercusuar di Pulau Lengkuas?",
+        "options": [
+          "Sekitar 10 meter",
+          "Sekitar 25 meter",
+          "Sekitar 50-65 meter",
+          "Lebih dari 150 meter"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q3_8",
+        "question": "Bagaimana cara menuju Pulau Lengkuas dari pulau utama Belitung?",
+        "options": [
+          "Naik bus umum",
+          "Melewati jembatan",
+          "Menyewa perahu/boat",
+          "Menggunakan kereta gantung"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q3_9",
+        "question": "Berapa perkiraan jumlah lantai pada mercusuar Pulau Lengkuas?",
+        "options": [
+          "3 lantai",
+          "18 lantai",
+          "50 lantai",
+          "100 lantai"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q3_10",
+        "question": "Selain mercusuar, formasi apa yang banyak terdapat di sekitar pantai Pulau Lengkuas?",
+        "options": [
+          "Batu granit",
+          "Batu koral merah",
+          "Hutan bakau yang lebat",
+          "Gua es"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "title": "Laskar Pelangi",
+    "rating": "5.0",
+    "imageUrl": "assets/images/Replika Sekolah Laskar Pelangi.jpg",
+    "questions": [
+      {
+        "id": "q4_1",
+        "question": "Di pulau manakah latar cerita Laskar Pelangi berada?",
+        "options": [
+          "Pulau Bangka",
+          "Pulau Belitung",
+          "Pulau Bintan",
+          "Pulau Nias"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q4_2",
+        "question": "Siapakah penulis novel Laskar Pelangi?",
+        "options": [
+          "Andrea Hirata",
+          "Pramoedya Ananta Toer",
+          "Raditya Dika",
+          "Tere Liye"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q4_3",
+        "question": "Pantai mana yang terkenal dengan batu granit raksasanya di film Laskar Pelangi?",
+        "options": [
+          "Pantai Parangtritis",
+          "Pantai Kuta",
+          "Pantai Tanjung Tinggi",
+          "Pantai Losari"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q4_4",
+        "question": "Apa nama SD yang menjadi latar utama cerita Laskar Pelangi?",
+        "options": [
+          "SD Negeri 1 Gantong",
+          "SD Muhammadiyah Gantong",
+          "SD Inpres Belitung",
+          "SD Harapan Bangsa"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q4_5",
+        "question": "Siapa nama tokoh utama dalam cerita Laskar Pelangi?",
+        "options": [
+          "Lintang",
+          "Mahar",
+          "Ikal",
+          "Borek"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q4_6",
+        "question": "Siapakah nama guru inspiratif yang mengajar anak-anak Laskar Pelangi?",
+        "options": [
+          "Ibu Muslimah / Bu Mus",
+          "Pak Harfan",
+          "Pak Mahmud",
+          "Ibu Tari"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q4_7",
+        "question": "Berapa jumlah anggota asli dari kelompok Laskar Pelangi?",
+        "options": [
+          "5 orang",
+          "8 orang",
+          "10 orang",
+          "15 orang"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": "q4_8",
+        "question": "Di mana lokasi Museum Kata Andrea Hirata berada?",
+        "options": [
+          "Gantung, Belitung Timur",
+          "Tanjung Pandan",
+          "Manggar",
+          "Jakarta"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": "q4_9",
+        "question": "Nama tokoh anak yang paling jenius dalam cerita Laskar Pelangi adalah?",
+        "options": [
+          "Ikal",
+          "Lintang",
+          "Mahar",
+          "Kucai"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": "q4_10",
+        "question": "Lagu tema film Laskar Pelangi yang sangat populer dinyanyikan oleh grup band apa?",
+        "options": [
+          "Noah",
+          "Slank",
+          "Nidji",
+          "Sheila On 7"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+]
